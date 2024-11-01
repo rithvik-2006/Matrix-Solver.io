@@ -18,7 +18,7 @@ export default function HomePage() {
     },
     {
       title: "Assignment-2",
-      description: "Find the inverse of non-singular matrices",
+      description: "Gauss-Legendre",
       icon: <X className="h-8 w-8" />,
       link: "https://colab.research.google.com/drive/1Fjh6ierx5yqNAT-6Yf149xfjr4qtezX2?usp=sharing",
     },
