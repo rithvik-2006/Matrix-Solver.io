@@ -1,11 +1,11 @@
 "use client"
-import { Calculator, Divide, Grid, X } from "lucide-react"
+import { Calculator, X } from "lucide-react"
 import Link from "next/link"
 
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card"
 import { GridBackgroundDemo } from "./Background"
-import Navbar from "./navbat"
+
 
 export default function HomePage() {
   const projects = [
